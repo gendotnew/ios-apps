@@ -50,6 +50,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Fitness
 
+- [Splyt](https://apps.apple.com/us/app/splyt-fitness-workout-tracker/id6755893717) - Log lifts on iPhone, with a standalone Apple Watch app that counts reps.
 - [Strong](https://itunes.apple.com/us/app/strong-workout-tracker-gym-log-exercise-journal/id464254577?mt=8) - Track workouts and see your progress.
 
 ## Games
