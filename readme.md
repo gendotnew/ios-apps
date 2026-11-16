@@ -28,6 +28,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Slack](https://itunes.apple.com/us/app/slack-business-communication-for-teams/id618783545?mt=8) - Team communication with ability to create public or private channels.
 - [Telegram](https://telegram.org) - Messenger with many features using its [own cryptography protocol](http://telegra.ph/Why-Isnt-Telegram-End-to-End-Encrypted-by-Default-08-14).
+- [ALinkgram](https://apps.apple.com/us/app/id6834787235) - Unofficial third-party Telegram client with spam filter, saved-message folders and NAS auto-save.
 
 ## Developer
 
