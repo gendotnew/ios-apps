@@ -115,6 +115,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Travelling
 
 - [CityMaps2Go](https://itunes.apple.com/us/app/citymaps2go-plan-trips-travel-guide-offline-maps/id408866084?mt=8) - Has downloadable offline maps for travelling with no connectivity.
+- [Hey Interpreter](https://heyinterpreter.com) - Two-way live voice translator and room subtitles in 60 languages for iPhone and Apple Watch.
 
 ## Related
 
