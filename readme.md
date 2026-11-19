@@ -99,6 +99,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Week Cal](https://itunes.apple.com/us/app/week-calendar/id381059732?mt=8) - Set and stay on top of calendar events.
 - [Workflow](https://workflow.is/) - Automate simple tasks via [URL schemes](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Inter-AppCommunication/Inter-AppCommunication.html).
 - [Timpler](https://timpler.com/) - Simple and powerful tasks and habits tracker app.
+- [Glasp](https://apps.apple.com/app/id1645763435) - Highlight web pages in Safari and keep your highlights and notes in one place.
 
 ## Security
 
