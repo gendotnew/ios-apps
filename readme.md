@@ -33,6 +33,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Charles](https://itunes.apple.com/app/charles-proxy/id1134218562?mt=8)
 - [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - Text-based user interface for a screen-based platform. ([HN](https://news.ycombinator.com/item?id=22989950))
+- [Wardterm](https://apps.apple.com/app/id6831190110) - SSH and SFTP client with an end-to-end encrypted vault that syncs servers and keys across devices.
 
 ## Education
 
