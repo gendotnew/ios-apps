@@ -50,6 +50,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Fitness
 
+- [ShadowCoach Boxing](https://apps.apple.com/us/app/shadowcoach-boxing/id6792245431) - Shadowboxing coach that calls out combos and gives feedback on your form through the camera.
 - [Strong](https://itunes.apple.com/us/app/strong-workout-tracker-gym-log-exercise-journal/id464254577?mt=8) - Track workouts and see your progress.
 
 ## Games
@@ -67,6 +68,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Photography
 
+- [Boothly](https://apps.apple.com/us/app/boothly-retro-photo-strips/id6804359059) - Retro photo booth for parties that turns an iPhone or iPad into classic photo strips.
 - [Instagram](https://itunes.apple.com/us/app/instagram/id389801252?mt=8) - Photo sharing social network owned by [Facebook](http://en.wikipedia.org/wiki/Facebook).
 - [Pixelmator](http://www.pixelmator.com/ios/) - Powerful image editor.
 - [Slidebox](http://slidebox.co/) - Quickly delete and organise photos on your phone.
