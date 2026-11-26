@@ -51,6 +51,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Fitness
 
 - [Strong](https://itunes.apple.com/us/app/strong-workout-tracker-gym-log-exercise-journal/id464254577?mt=8) - Track workouts and see your progress.
+- [Narrafit](https://apps.apple.com/app/id6758052310) - Home workouts where each session is a chapter of an original audio adventure, with a weekly plan.
 
 ## Games
 
